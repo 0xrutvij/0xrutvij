@@ -121,9 +121,9 @@ And thus I call myself a deluded dilettante!
 
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=0xrutvij&count_private=true&show_icons=true&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xrutvij&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xrutvij&hide=jupyter%20notebook&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xrutvij&hide=jupyter%20notebook&layout=compact&theme=radical)
 
 -------------------
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=0xrutvij.0xrutvij&left_color=gray&right_color=blue)
