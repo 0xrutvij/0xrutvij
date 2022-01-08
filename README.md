@@ -30,9 +30,9 @@ And thus I call myself a deluded dilettante!
 
 <br>
 
-- Implementing the first **interpreter** in [Crafting Interpreters](http://craftinginterpreters.com) using **Python**, [PyLox](https://github.com/0xrutvij/PyLox).
-- Learning **Lisp** (Scheme) & a new way of looking at fundamentals of our craft from [SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html).
-- Learning **Go** & making practical projects following prompts at [Gophercises](https://gophercises.com).
+- Implementing the first **interpreter** in [Crafting Interpreters](http://craftinginterpreters.com) using **Python**. The implement repo for [PyLox](https://github.com/0xrutvij/PyLox).
+- Learning **Lisp** (Scheme) & a new way of looking at fundamentals of our craft from [SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html). [My notes](https://github.com/0xrutvij/sicp_notes).
+- Learning **Go** & making practical [projects](https://github.com/0xrutvij/gophercises) following prompts at [Gophercises](https://gophercises.com).
 - Grokking **C language** through the lens of its creators [K&R2](https://www.cprogramming.com/books/ritchie.html).
 
 </details>
@@ -61,7 +61,7 @@ And thus I call myself a deluded dilettante!
    - Custom implementation of a simple NN
    - Use of various sampling methods and a comparison of their effectiveness at addressing class imbalance.
    - Check out the [Project Report](https://github.com/0xrutvij/MLfinalProject/blob/main/ML_Final_Report.pdf) for details!
-4. Statistical analysis projects using [R Language]() as a part of a grad course.
+4. Statistical analysis projects using [R Language](https://github.com/0xrutvij/stats_projects) as a part of a grad course.
 
 </details>
   
@@ -70,8 +70,8 @@ And thus I call myself a deluded dilettante!
   <summary> <b> Artificial Intelligence </b> </summary>
 
 
-1. Implementation of [A* search]() using Python to solve 8-Puzzle game and comparison with other search methods.
-2. A [Q&A system using Prolog](), which can answer basic questions given an encoded description of a simplified real world environment.
+1. Implementation of A* search using Python to solve 8-Puzzle game and comparison with other search methods.
+2. A [Q&A system using Prolog](https://github.com/0xrutvij/q-a_system), which can answer basic questions given an encoded description of a simplified real world environment.
 
 </details>
 
@@ -87,7 +87,7 @@ And thus I call myself a deluded dilettante!
   
 <summary> <b> GUIs </b> </summary>
   
-1. Used PyQT as a part of my internship & for my DB course to build a contacts list app using OBDC (CRUD, triggers, text search etc.).
+1. Used PyQT as a part of my internship & for my DB course to build a [contacts list app](https://github.com/0xrutvij/sqlGUI) using OBDC (CRUD, triggers, text search etc.).
 
 </details>
 
