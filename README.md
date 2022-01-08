@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-I am Rutvij, a CS grad student at [UT Dallas](https://utdallas.edu/)
+I am Rutvij, a CS grad student at [UT Dallas](https://utdallas.edu/). 
 
-My specialization is in Intelligent Systems. Eventually, I would like to pursue a PhD in CS & work as a researcher. Drop down each section to learn more about me!
+My specialization is in Intelligent Systems. Eventually, I would like to pursue a PhD in CS & work as a researcher. 
+
+_Drop down each section to learn more about me!_
 
 <details>
   <summary> <b>Interests ... </b> </summary>
