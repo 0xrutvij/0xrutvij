@@ -54,17 +54,28 @@ And thus I call myself a deluded dilettante!
   <summary> <b> Artificial Intelligence & Machine Learning </b> </summary>
 
 1. Capstone project involving [analysis](https://github.com/0xrutvij/loadPullDataAnalysis) of Transistor Load Pull Data for Qorvo. [Data Analysis]
+
 2. Custom implementation of [Decisiton Trees](https://github.com/0xrutvij/decisionTree) as a part of a graduate ML course. [ML]
+
 3. [Contact tracing data analysis](https://github.com/0xrutvij/MLfinalProject) [ML]
    - Custom implementations of Bagging & Boosting (adaBoost) ensembles on ID3 trees.
    - Custom implementation of a simple NN
    - Use of various sampling methods and a comparison of their effectiveness at addressing class imbalance.
    - Check out the [Project Report](https://github.com/0xrutvij/MLfinalProject/blob/main/ML_Final_Report.pdf) for details!
+
 4. Statistical analysis projects using [R Language](https://github.com/0xrutvij/stats_projects) as a part of a grad course. [Statistics]
+
 5. [Lane Line Detection](https://github.com/0xrutvij/LaneLineDetection): Detecting lane lines on roads & stop signs using Open CV. [Computer Vision]
+
 6. [Medial Axist Transform](https://github.com/0xrutvij/medial-axis-transform): Medial axis transform using Delaunay triangulations. MAT was used to demonstrate too of its applications, one, to compress shapes by reducing a dimension. Another, a computer vision cross-application to perform pattern matching and find similar shapes using path matching. [Computational Geometry & Computer Vision]
+
 7. Implementation of A* search using Python to solve 8-Puzzle game and comparison with other search methods. 
+
 8. A [Q&A system using Prolog](https://github.com/0xrutvij/q-a_system), which can answer basic questions given an encoded description of a simplified real world environment. [Logic Programming]
+
+9. [Flower Images Classification](https://github.com/0xrutvij/transfer-learning-with-CNNs) - Transfer learning on trained CNN models to classify flowers.
+
+10. [Cheque Perspective Transform](https://github.com/0xrutvij/perspective-transform) - A cheque scanning workflow with amount extraction using HTR.
 </details>
   
 
