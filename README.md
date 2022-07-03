@@ -40,9 +40,8 @@ And thus I call myself a deluded dilettante!
 <details>
   <summary> <b> 🤔 I'm looking forward to learning these in the near future ... </b> </summary>
   
-- [_Logic Programming_](https://catalog.utdallas.edu/2020/graduate/courses/cs6374) in further depth with Dr. Gupta and [_Computational Geometry_](https://catalog.utdallas.edu/2021/graduate/courses/cs6319) with Dr. Fox this Spring.
+- Learning Quantum Algorithms and Neural Net Mathematics this Fall!
 - **_Haskell_** - through a category theoric lens & revisiting [LYAH](https://web.archive.org/web/20211125090205/http://learnyouahaskell.com/chapters) before learning from new resources.
-- **_Swift_** - the procedural programming paradigm and learning how to build iOS applications.
 - _Reinforcement Learning_ & _Neural Networks_ in greater depth.
 
 </details>
@@ -52,42 +51,39 @@ And thus I call myself a deluded dilettante!
 
 <details>
   
-  <summary> <b> Data Analysis, Statistics & Machine Learning </b> </summary>
+  <summary> <b> Artificial Intelligence & Machine Learning </b> </summary>
 
-1. Capstone project involving [analysis](https://github.com/0xrutvij/loadPullDataAnalysis) of Transistor Load Pull Data for Qorvo. 
-2. Custom implementation of [Decisiton Trees](https://github.com/0xrutvij/decisionTree) as a part of a graduate ML course. 
-3. [Contact tracing data analysis](https://github.com/0xrutvij/MLfinalProject)
+1. Capstone project involving [analysis](https://github.com/0xrutvij/loadPullDataAnalysis) of Transistor Load Pull Data for Qorvo. [Data Analysis]
+2. Custom implementation of [Decisiton Trees](https://github.com/0xrutvij/decisionTree) as a part of a graduate ML course. [ML]
+3. [Contact tracing data analysis](https://github.com/0xrutvij/MLfinalProject) [ML]
    - Custom implementations of Bagging & Boosting (adaBoost) ensembles on ID3 trees.
    - Custom implementation of a simple NN
    - Use of various sampling methods and a comparison of their effectiveness at addressing class imbalance.
    - Check out the [Project Report](https://github.com/0xrutvij/MLfinalProject/blob/main/ML_Final_Report.pdf) for details!
-4. Statistical analysis projects using [R Language](https://github.com/0xrutvij/stats_projects) as a part of a grad course.
-
+4. Statistical analysis projects using [R Language](https://github.com/0xrutvij/stats_projects) as a part of a grad course. [Statistics]
+5. [Lane Line Detection](https://github.com/0xrutvij/LaneLineDetection): Detecting lane lines on roads & stop signs using Open CV. [Computer Vision]
+6. [Medial Axist Transform](https://github.com/0xrutvij/medial-axis-transform): Medial axis transform using Delaunay triangulations. MAT was used to demonstrate too of its applications, one, to compress shapes by reducing a dimension. Another, a computer vision cross-application to perform pattern matching and find similar shapes using path matching. [Computational Geometry & Computer Vision]
+7. Implementation of A* search using Python to solve 8-Puzzle game and comparison with other search methods. 
+8. A [Q&A system using Prolog](https://github.com/0xrutvij/q-a_system), which can answer basic questions given an encoded description of a simplified real world environment. [Logic Programming]
 </details>
   
+
 <details>
-
-  <summary> <b> Artificial Intelligence </b> </summary>
-
-
-1. Implementation of A* search using Python to solve 8-Puzzle game and comparison with other search methods.
-2. A [Q&A system using Prolog](https://github.com/0xrutvij/q-a_system), which can answer basic questions given an encoded description of a simplified real world environment.
-
+  
+<summary> <b> iOS & GUI App Development </b> </summary>
+  
+1. [Flix](https://github.com/0xrutvij/flix): An app that allows users to browse movies from the The [Movie Database API](http://docs.themoviedb.apiary.io/#). [iOS]
+2. [TwitterClone](https://github.com/0xrutvij/twitterClone): A basic twitter app to read your tweets, compose new tweets, and like + retweet timeline tweets. [iOS]
+3. [Parstagram](https://github.com/0xrutvij/Parstagram): An Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments. [iOS]
+4. Used PyQT as a part of my internship & for my DB course to build a [contacts list app](https://github.com/0xrutvij/sqlGUI) using OBDC (CRUD, triggers, text search etc.). [PyQT]
 </details>
+
 
 <details>
   
 <summary> <b> Database Engine </b> </summary>
   
 1. An SQLite like DB, named [RioDB](https://github.com/0xrutvij/rioDatabaseEngine), implemented as a part of a Database Design course. 
-
-</details>
-  
-<details>
-  
-<summary> <b> GUIs </b> </summary>
-  
-1. Used PyQT as a part of my internship & for my DB course to build a [contacts list app](https://github.com/0xrutvij/sqlGUI) using OBDC (CRUD, triggers, text search etc.).
 
 </details>
 
